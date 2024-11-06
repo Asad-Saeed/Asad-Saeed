@@ -1,22 +1,29 @@
 <h1 align="center">Hi 👋, I'm Asad Saeed</h1>
-<h3 align="center">Frontend Developer | API Integration Specialist | Aspiring Full Stack Developer</h3>
+<h3 align="center">🌟 Frontend Developer | API Integration Specialist | Aspiring Full Stack Developer 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="asad-saeed" /> </p>
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-I'm a passionate frontend developer with **3+ years of experience** specializing in building seamless and responsive applications using **React, Next.js,** and **React Native**. I have a strong proficiency in **API integrations**, enabling smooth data interactions across web and mobile platforms.
+Hey there! I'm a **Frontend Developer** with a deep passion for crafting beautiful, high-performance web and mobile applications. With over **3 years of experience** in building seamless, responsive UIs, I specialize in **React**, **Next.js**, and **React Native** to deliver exceptional user experiences.
 
-In addition to frontend expertise, I’ve gained close to a year of experience with backend technologies like **Node.js, Express,** and **MongoDB**. This has broadened my understanding of full-stack development, allowing me to create well-rounded and scalable applications.
+I’m a problem-solver at heart, constantly experimenting with new technologies and approaches to make web and mobile development faster, smoother, and more intuitive. Whether it's integrating complex **APIs** or fine-tuning UI/UX designs, I focus on creating applications that are not only functional but also delightful to use.
+
+But that's not all—I also have nearly a year of experience in **backend development** using **Node.js**, **Express**, and **MongoDB**. This full-stack knowledge empowers me to create well-rounded applications from the ground up, ensuring seamless interaction between the frontend and backend.
+
+I’m always eager to learn, collaborate, and contribute to meaningful projects. My goal is to build scalable, efficient solutions that make an impact and solve real-world problems.
+
+Check out my repositories, and don’t hesitate to reach out if you're interested in collaborating, sharing ideas, or just having a chat about tech!😎
+
 
 ---
 
 ### 🛠 Tech Stack
 
 #### Frontend
-- 🖼 **React**
+- 🖼 **React.js**
 - ⚛️ **Next.js**
 - 📱 **React Native**
 
@@ -28,7 +35,7 @@ In addition to frontend expertise, I’ve gained close to a year of experience w
 - 🗄️ **MongoDB**
 
 #### Specialty
-- 🔗 **API Integrations**
+- 🔗 **Frontend Development and Engineering**
 
 ---
 
@@ -39,12 +46,24 @@ In addition to frontend expertise, I’ve gained close to a year of experience w
 ---
 
 ### 🚀 What I’m Working On
+
 - 🔭 Currently working on [MERN Projects](https://asad-saeed-portfolio.vercel.app/portfolio)
+
 - 🌱 Constantly enhancing my skills in full-stack development, focusing on:
   - Advanced backend concepts in Node.js and Express
   - Scaling and optimizing MongoDB
   - Learning new patterns and techniques to improve application performance
+
 - 👯 Looking to collaborate on **React, Next.js, React Native, or MERN projects**
+
+---
+
+## 📄 My Goals
+
+I'm always striving to expand my skills and knowledge. My main goals for the upcoming months include:
+- Building and deploying full-stack applications
+- Expanding my knowledge in modern backend practices
+- Contributing to open-source projects regularly
 
 ---
 
@@ -58,11 +77,13 @@ In addition to frontend expertise, I’ve gained close to a year of experience w
 ---
 
 ### ⚡ Fun Fact
+
 I enjoy contributing to open-source projects in my free time and am always open to discussing innovative ideas, especially in tech and design.
 
 ---
 
 ### 📬 Connect with Me:
+
 <p align="left">
   <a href="https://linkedin.com/in/asad-saeed-4685a9202" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad-saeed-4685a9202" height="30" width="40" />
@@ -79,25 +100,145 @@ I enjoy contributing to open-source projects in my free time and am always open 
 
 ### 🛠 Languages and Tools
 
-<p align="left"> 
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  <!-- Add more tools as needed -->
+<p align="left">
+  <!-- Frontend Development -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://nextui.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next UI" width="40" height="40"/>
+  </a>
+
+  <!-- Programming Languages -->
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+
+  <!-- Mobile App Development -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
+  </a>
+
+  <!-- State Management -->
+  <a href="https://reactjs.org/docs/context.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Context API" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Zustand" width="40" height="40"/>
+  </a>
+
+  <!-- Data Fetching -->
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" alt="Axios" width="40" height="40"/>
+  </a>
+  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="Apollo Client GraphQL" width="40" height="40"/>
+  </a>
+
+  <!-- Data Visualization -->
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
+  </a>
+
+  <!-- Form Validations -->
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Hook Form" width="40" height="40"/>
+  </a>
+  <a href="https://formik.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Formik" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Zod" width="40" height="40"/>
+  </a>
+
+  <!-- Version Control -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" width="40" height="40"/>
+  </a>
+
+  <!-- Deployments -->
+  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Lambda" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
+  </a>
+
+  <!-- Backend Development -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <!-- BaaS -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+
+  <!-- Testing -->
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+  </a>
+
+  <!-- Software -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-saeed&show_icons=true&locale=en&layout=compact" alt="asad-saeed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-saeed&show_icons=true&locale=en" alt="asad-saeed" /></p>
