@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Asad-Saeed" alt="Asad Saeed" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="https://github.com/AsadSaeed.png" alt="Asad Saeed" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Asad Saeed</h1>
 <h3 align="center">🌟 Frontend Developer | API Integration Specialist | Aspiring Full Stack Developer 🌟</h3>
