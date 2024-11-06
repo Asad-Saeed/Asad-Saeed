@@ -156,7 +156,7 @@ I enjoy contributing to open-source projects in my free time and am always open 
 
   <!-- Data Fetching -->
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original-wordmark.svg" alt="Axios" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original-wordmark.svg](https://user-images.githubusercontent.com/43313420/105893154-0afe1180-6013-11eb-941d-19a96ebe3c0b.png)" alt="Axios" width="40" height="40" style="margin-right: 15px;"/>
   </a>
   <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="Apollo Client GraphQL" width="40" height="40" style="margin-right: 15px;"/>
