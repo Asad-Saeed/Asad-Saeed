@@ -85,7 +85,7 @@ I enjoy contributing to open-source projects in my free time and am always open 
 ### 📬 Connect with Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/asad-saeed-4685a9202" target="blank">
+  <a href="https://linkedin.com/in/asad-saeed-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad-saeed-4685a9202" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/27711340" target="blank">
