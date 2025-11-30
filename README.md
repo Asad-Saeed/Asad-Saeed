@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Saeed</h1>
-<h3 align="center">🚀 Software Engineer | MERN Stack Developer | Full Stack JavaScript | React & Next.js Specialist</h3>
+<h3 align="center">🚀 Expert Software Engineer | MERN Stack Developer | Full Stack JavaScript/TypeScript | React & Next.js Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asad-saeed&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
