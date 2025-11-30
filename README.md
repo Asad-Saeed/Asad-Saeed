@@ -1,113 +1,125 @@
 <h1 align="center">Hi 👋, I'm Asad Saeed</h1>
-<h3 align="center">🌟 MERN Stack Developer | Full Stack Engineer | API & Frontend Specialist 🌟</h3>
+<h3 align="center">🚀 Software Engineer | MERN Stack Developer | Full Stack JavaScript | React & Next.js Specialist</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=asad-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="asad-saeed" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asad-saeed&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-Hey! I'm a **MERN Stack Developer** with 4+ years of experience building fast, scalable, and user-focused web and mobile applications. I work across the **full stack**, specializing in **MongoDB, Express.js, React.js, and Node.js**, along with deep expertise in **Next.js** and **React Native**.
+I’m a **Senior Software Engineer** and **MERN Stack Developer** with over **5 years of hands-on experience** in building scalable, high-performance web and mobile applications. I specialize in **JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, and SQL**, and work confidently across both **frontend** and **backend** environments.
 
-I love designing modern, responsive interfaces and pairing them with robust backend logic, clean architecture, and optimized database structures. From **API design** to **performance tuning**, I focus on building products that are reliable, scalable, and offer exceptional user experiences.
+I love building **modern UI/UX**, integrating clean and efficient **REST & GraphQL APIs**, and developing powerful backend systems using **Node.js, Express, and NestJS**. I have also worked with **Prisma ORM**, **SQL databases**, and **automation tools like n8n** to create workflow automation and AI-driven features.
 
-With experience in both frontend and backend, I build complete systems — dashboards, mobile apps, SaaS platforms, admin panels, data-driven interfaces, and end-to-end MERN applications.
+My experience spans **SaaS platforms, dashboards, admin panels, eCommerce systems, mobile apps**, and large-scale MERN applications — with a strong focus on clean architecture, modular design, state management, security, and performance.
 
-I'm always exploring new technologies, improving system architecture, and working on real-world projects that solve meaningful problems. If you’re looking to collaborate or discuss tech, feel free to reach out! 😎
+I consistently explore new technologies and best practices to deliver products that are fast, secure, and user-friendly. If you’re building something exciting, I’d love to collaborate.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack & Tools
 
-### **Frontend**
+### **Frontend Development**
 - ⚛️ React.js  
 - ▶️ Next.js  
 - 📱 React Native  
 - 🎨 Tailwind CSS, SCSS, MUI, Bootstrap  
+- 🗂 Zustand, Redux, Context API  
+- 🌗 Dark/Light UI Design, Responsive UI  
 
-### **Backend**
+### **Backend Development**
 - 🌐 Node.js  
 - 🚀 Express.js  
+- 🏗 NestJS (structured backend architecture)  
+- 🔗 REST APIs, GraphQL APIs  
+- ⚙️ Authentication, RBAC, JWT, Security Best Practices  
 
-### **Database**
-- 🗄️ MongoDB  
+### **Database & ORM**
+- 🗄 MongoDB  
+- 🧩 Prisma ORM  
+- 🧮 SQL / PostgreSQL / MySQL  
+- 🛢 Mongoose  
 
-### **Core Expertise**
-- 🔗 Full Stack Development  
-- ⚙️ API Engineering & Data Integrations  
-- 🧩 Clean Architecture & Scalable Systems  
+### **AI & Automation Tools**
+- 🤖 n8n  
+- 🔄 Cursor, WindSurf  
+- 🧠 AI pipeline integration (OpenAI models, API automation)  
 
----
-
-### 📈 GitHub Stats & Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asad-saeed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🚀 What I’m Working On
-
-- 🔭 Building real-world **MERN applications**, full-stack dashboards & SaaS modules  
-- 🌱 Improving advanced backend concepts:  
-  - API architecture  
-  - Authentication, authorization, RBAC  
-  - MongoDB indexing & query optimization  
-- 👯 Open to collaboration on **React, Next.js, Node.js, Express, and MERN projects**  
-- ⚡ Exploring better patterns for large-scale React/Next.js applications  
+### **Dev Tools & Others**
+- 🔧 Git, GitHub, Bitbucket  
+- 🧪 Postman, Swagger, GraphQL Playground  
+- 🧱 Docker (basic)  
+- ☁️ AWS Lambda, Vercel, Netlify  
+- 📊 Chart.js, Recharts  
+- 📁 Formik, Zod, React Hook Form  
 
 ---
 
-## 📄 My Goals
+## 🏆 Featured GitHub Trophies
 
-- Deploy and scale multiple full-stack applications  
-- Master advanced backend workflows & system design  
-- Contribute more to open-source MERN ecosystem  
-- Become a lead full stack engineer  
+[![trophy](https://github-profile-trophy.vercel.app/?username=asad-saeed&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🚀 What I'm Working On
+- Building full-stack applications using **MERN + Prisma + SQL**
+- Creating **Next.js + Node.js** production-ready systems
+- Developing **MERN dashboards**, SaaS modules & admin panels  
+- Scaling backend performance & applying modular architecture  
+- AI & automation using **n8n + OpenAI API**  
+- Working on **React Native mobile apps**  
+
+---
+
+## 🎯 Goals for 2025
+- Master advanced backend architecture (microservices, queues, caching)
+- Build & deploy 5+ full-stack production apps  
+- Improve cloud deployment (AWS, Docker, CI/CD)  
+- Contribute more to open-source MERN projects  
+- Become a Lead Full Stack Engineer  
 
 ---
 
 ## 🤝 Let's Connect
 
-- 📫 **asadsaeed.dev@gmail.com**  
+- 📧 **Email:** asadsaeed.dev@gmail.com  
 - 🌐 **Portfolio:** https://asad-saeed-portfolio.vercel.app  
-- ✍️ **Medium:** https://asad-saeed.medium.com  
-- 📄 **Website:** https://asad-saeed-portfolio.vercel.app  
+- 📝 **Medium Blog:** https://asad-saeed.medium.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/asad-saeed-dev  
 
 ---
 
-## ⚡ Fun Fact
-
-I love contributing to open-source and experimenting with new tech — especially anything related to React, Next.js, and backend scalability.
-
----
-
-## 📬 Connect with Me
+## 📬 Social Profiles
 
 <p align="left">
   <a href="https://linkedin.com/in/asad-saeed-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/27711340" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
   </a>
   <a href="https://medium.com/@asad-saeed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" />
   </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+## 📊 GitHub Stats
 
-(Your tools table remains the same — I kept it untouched because it’s already perfect.)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-saeed&show_icons=true&layout=compact" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-saeed&show_icons=true" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-saeed" /></p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun Fact 
+I enjoy building complete **MERN stack applications**, tackling challenging **frontend and backend problems**, optimizing performance, and creating clean, scalable code that delivers real value to users.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-saeed&show_icons=true&locale=en&layout=compact" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-saeed&show_icons=true&locale=en" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-saeed" /></p>
+
+---
+
+**MERN Stack Developer**, **Full Stack Developer**, **React.js Developer**, **Next.js Developer**, **JavaScript Engineer**, **Node.js Backend Developer**, **Frontend Developer**, **Software Engineer**, **Full Stack JavaScript Developer**, **Next.js Expert**, **React Native Developer**, **API Developer**, **NestJS Backend Developer**.
 
