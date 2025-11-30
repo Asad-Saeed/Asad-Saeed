@@ -121,5 +121,5 @@ I enjoy building complete **MERN stack applications**, tackling challenging **fr
 
 ---
 
-**MERN Stack Developer**, **Full Stack Developer**, **React.js Developer**, **Next.js Developer**, **JavaScript Engineer**, **Node.js Backend Developer**, **Frontend Developer**, **Software Engineer**, **Full Stack JavaScript Developer**, **Next.js Expert**, **React Native Developer**, **API Developer**, **NestJS Backend Developer**.
+**MERN Stack Developer**, **Full Stack Developer**, **React.js Developer**, **Next.js Developer**, **JavaScript Engineer**, **JavaScript Engineer**, **Node.js Backend Developer**, **Express.js Backend Developer**, **Frontend Developer**, **Software Engineer**, **Full Stack JavaScript Developer**, **Next.js Expert**, **React Native Developer**, **API Developer**, **NestJS Backend Developer**.
 
