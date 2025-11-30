@@ -13,7 +13,7 @@ I’m a **Senior Software Engineer** and **MERN Stack Developer** with over **5 
 
 I love building **modern UI/UX**, integrating clean and efficient **REST & GraphQL APIs**, and developing powerful backend systems using **Node.js, Express, and NestJS**. I have also worked with **Prisma ORM**, **SQL databases**, and **automation tools like n8n** to create workflow automation and AI-driven features.
 
-My experience spans **SaaS platforms, dashboards, admin panels, eCommerce systems, mobile apps**, and large-scale MERN applications — with a strong focus on clean architecture, modular design, state management, security, and performance.
+My experience spans **SaaS platforms, dashboards, admin panels, eCommerce systems, mobile apps**, and large-scale MERN applications with a strong focus on clean architecture, modular design, state management, security, and performance.
 
 I consistently explore new technologies and best practices to deliver products that are fast, secure, and user-friendly. If you’re building something exciting, I’d love to collaborate.
 
